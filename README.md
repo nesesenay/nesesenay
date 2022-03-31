@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif)]
+![MasterHead](https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif)
 <h1 align="center">Hi 👋, I'm Neşe Şenay</h1>
 <h3 align="center">I am developing on iOS and web.</h3>
-<img align:”right” alt=“Coding” width=“400” src=“https://lzomedia.com/wp-content/uploads/2022/02/02APXf5ge7QCN9Ga_CL.gif”>
+(img align="right" alt="Coding" width="400" src="https://lzomedia.com/wp-content/uploads/2022/02/02APXf5ge7QCN9Ga_CL.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesesenay&label=Profile%20views&color=0e75b6&style=flat" alt="nesesenay" /> </p>
 
