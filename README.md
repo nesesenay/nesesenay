@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif)
 <h1 align="center">Hi 👋, I'm Neşe Şenay</h1>
-<h3 align="center">I am developing on iOS and web.</h3>
+<h3 align="center">A passionate iOS and Web developer.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesesenay" alt="nesesenay" /></a> </p>
