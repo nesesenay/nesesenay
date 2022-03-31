@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Neşe Şenay</h1>
 <h3 align="center">I am developing on iOS and web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nesesenay&label=Profile%20views&color=0e75b6&style=flat" alt="nesesenay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesesenay" alt="nesesenay" /></a> </p>
 
