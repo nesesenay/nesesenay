@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesesenay" alt="nesesenay" /></a> </p>
 
-- 🌱 I’m currently learning **Swift and .Net Core**
+- 🌱 I’m currently learning **Swift and Javascript**
 
 - 💬 Ask me about **iOS and Web applications**
 
